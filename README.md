@@ -62,4 +62,9 @@
 - To analyze the results within KNIME using Python, open the ``Node Repository`` and search for ``Python`` to use the Python-related KNIME nodes. You can also search for sample workflows under the [KNIME Hub](https://hub.knime.com/).
 - To analyze the generated Excel files, open the Excel files in your favorite analytics suite, and analyze with the appropriate tools. The generated Excel files are ready for visual analytics.
 
+## EdenEngine Screenshot
+
+![EdenEngine Screenshot](./doc/img/EdenEngine.png)
+
+
 
