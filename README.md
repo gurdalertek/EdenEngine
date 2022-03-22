@@ -23,7 +23,7 @@
 
 **Step 2**: Access MagicEden API
 
-- Double-click on ``MagicEden API Call for 500 Collections`` shortlink, or enter into browser's URL address field the following: 
+- Double-click on ``MagicEden API Call for 500 Collections.URL`` shortlink, or enter into browser's URL address field the following: 
 - [https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500](https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500).
 
 **Step 3**: Query with MagicEden API
@@ -38,7 +38,7 @@
 
 **Step 5**: Query with MagicEden API
 
-- Under ``C:\MagicEden``, double-click on the workflow file ``Collections - KNIME Analysis Engine``, which will open the workflow in KNIME. 
+- Under ``C:\MagicEden``, double-click on the workflow file ``Collections - KNIME Analysis Engine.knwf``, which will open the workflow in KNIME. 
 
 **Step 6**: Install Missing KNIME Extensions
 
