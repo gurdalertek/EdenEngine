@@ -4,7 +4,7 @@
 ## Start Here:
 
 - [**Documentation**](./doc/Documentation.md) describes the project and the EdenEngine analytics engine.
-- [**YouTube Video**](https://youtu.be/...) is the demo video for the hackathon.
+- [**YouTube Video**](https://youtu.be/...) is the demo video for the [MagicEden API Hackathon](https://api.magiceden.dev/#31fe6d3b-80eb-4d78-8582-3e66eeb45c25) hackathon.
 
 ## EdenEngine Team
 
