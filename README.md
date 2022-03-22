@@ -77,7 +77,7 @@
 
 Future work on ``EdenEngine`` is envisioned as follows:
 
-1. Deploying the app on the web, through (KNIME Server)[https://www.knime.com/knime-server].
+1. Deploying the app on the web, through [KNIME Server](https://www.knime.com/knime-server).
 2. Developing an intuitive user interface, where the user can make simple selections and specify simple parameters, which feed into the analytics engine. 
 3. Creating many more modules within the engine, so that different types of data from the API are analyzed and result files are generated for them. For example, there can be analysis of [NFT listings](https://api.magiceden.dev/#8e6d2f4f-6168-4dbd-a9ae-49e33fbf515e) within the collections and the [activities](https://api.magiceden.dev/#3a6c0dd2-067f-4686-9a8b-8994667f1b67) for them; there can be analysis of [tokens](https://api.magiceden.dev/#afefe1c7-466f-4823-9483-d65eaaa2b7d8, [wallets](https://api.magiceden.dev/#2d5d8e00-3aab-49f7-8a25-6ab30fb4af5e), and much more.
 4. Going beyond descriptive analytics (term frequencies, MDS, topic analysis) and implementing predictive and even prescriptive analytics.
