@@ -69,7 +69,7 @@
 
 ![EdenEngine Screenshot](./doc/img/EdenEngineScreenshot.png)
 
-## EdenEngine Generated Files
+## EdenEngine Generated Results Files
 
 ![EdenEngine Generated Files](./doc/img/EdenEngineGeneratedFiles.png)
 
