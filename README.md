@@ -24,7 +24,8 @@ _Al Ain, United Arab Emirates_
 
 **Step 2**: Access MagicEden API
 
-Double-click on ``MagicEden API Call for 500 Collections`` shortlink, or enter into browser's URL address field the following: [https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500](https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500).
+- Double-click on ``MagicEden API Call for 500 Collections`` shortlink, or enter into browser's URL address field the following: 
+- [https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500](https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500).
 
 **Step 3**: Query with MagicEden API
 
@@ -34,11 +35,11 @@ Double-click on ``MagicEden API Call for 500 Collections`` shortlink, or enter i
 
 **Step 4**: Install KNIME
 
-If you do not currently have KNIME installed, download and install from [KNIME official website](https://knime.org).
+- If you do not currently have KNIME installed, download and install from [KNIME official website](https://knime.org).
 
 **Step 5**: Query with MagicEden API
 
-Under ``C:\MagicEden``, double-click on the workflow file ``Collections - KNIME Analysis Engine``, which will open the workflow in KNIME. 
+- Under ``C:\MagicEden``, double-click on the workflow file ``Collections - KNIME Analysis Engine``, which will open the workflow in KNIME. 
 
 **Step 6**: Install Missing KNIME Extensions
 
