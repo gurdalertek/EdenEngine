@@ -52,7 +52,7 @@
 - In KNIME, click the green ``Execute all executable nodes (Shift+F7)`` play button on the ribbon to run the ``EgenEngine`` workflow.
 - The default json file to be read is specified in the light-red ``JSON Reader`` node as `C:\MagicEden\collections.json```. Since you downloaded the file with the same name and moved to the default folder, to overwrite the old file, KNIME workflow should run smoothly.
 - The running of EdenEngine may be stuck within the last module (bottom yellow frame), titled ``Multidimensional Scaling for Terms``. If this happens, double-click on the green ``MDS`` block, click Apply, save with ``Ctrl+S`` and then click the green play button again (alternatively, press on your keyboard ``Shirt+F7``).
-- The bottleneck is the ``Topic Extraction`` module and the module that comes after that, titled ``Generating word clouds for each topic``. 
+- The module that consumes the most time is the ``Topic Extraction`` module (right side of the workflow) and the module that comes after that, titled ``Generating word clouds for each topic``. 
 - The results are now generated. 
 - Interactive plots are also generated within the worflow.
 
