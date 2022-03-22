@@ -64,7 +64,7 @@
 
 ## EdenEngine Screenshot
 
-![EdenEngine Screenshot](./doc/img/EdenEngine.png)
+![EdenEngine Screenshot](./doc/img/EdenEngineScreenshot.png)
 
 
 
