@@ -1,5 +1,5 @@
 # EdenEngine
-``EdenEngine`` is an analytics engine for MagicEden NFT Collection data. The engine is implemented as a KNIME workflow.
+``EdenEngine`` is an analytics engine for MagicEden NFT Collection data, obtained through the [MagicEden API](https://api.magiceden.dev/#31fe6d3b-80eb-4d78-8582-3e66eeb45c25). The engine is implemented as a KNIME workflow. The current implementation of the engine focuses on the analysis of the text data in the ``description`` field of the data on Collections, which can be accessed through the [Collections API call]([https://api-mainnet.magiceden.dev/v2/collections?offset=0&limit=500]).
 
 ## Start Here:
 
