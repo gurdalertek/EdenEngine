@@ -9,8 +9,7 @@
 ## EdenEngine Team
 
 - [Gurdal Ertek](https://github.com/gurdalertek) (System design, UI design, Content Development, System documentation)
-
-_Al Ain, United Arab Emirates_
+- _Al Ain, United Arab Emirates_
 
 <!--- Member of [BlockBlockData](https://blockblockdata.com) Team; Associate Professor of Business Analytics, [UAE University](https://cbe.uaeu.ac.ae/en/departments/analytics/) --->
 
