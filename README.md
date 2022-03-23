@@ -63,7 +63,7 @@
 
 - To analyze the results within KNIME, right-click on the dark blue nodes in the workflow, which are the ``Bar Chart`` and ``Tag Cloud`` nodes, and select ``Interactive View`` in the pop-up menu.
 - To analyze the results within KNIME using Python, open the ``Node Repository`` and search for ``Python`` to use the Python-related KNIME nodes. You can also search for sample workflows under the [KNIME Hub](https://hub.knime.com/).
-- To analyze the generated Excel files, open the Excel files in your favorite analytics suite, and analyze with the appropriate tools. The generated Excel files are ready for visual analytics.
+- To analyze the generated Excel files externally, open the Excel files in your favorite analytics suite, and analyze with the appropriate tools. The generated Excel files are ready for visual analytics. For example, the file ``Collections - Orange Model.ows`` in this repository can be open in [Orange](https://orangedatamining.com/) data analytics platform and used to analyze the Excel data externally in Orange.
 
 ## EdenEngine Screenshot
 
