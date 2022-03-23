@@ -59,7 +59,7 @@
 - The results are now generated. 
 - Interactive plots are also generated within the worflow.
 
-**Step 8**: Analyze the Results
+**Step 8: Analyze the Results**
 
 - To analyze the results within KNIME, right-click on the dark blue nodes in the workflow, which are the ``Bar Chart`` and ``Tag Cloud`` nodes, and select ``Interactive View`` in the pop-up menu.
 - To analyze the results within KNIME using Python, open the ``Node Repository`` and search for ``Python`` to use the Python-related KNIME nodes. You can also search for sample workflows under the [KNIME Hub](https://hub.knime.com/).
